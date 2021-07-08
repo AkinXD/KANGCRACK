@@ -10,5 +10,5 @@ $ pip install requests bs4
 
 $ cd KANGCRACK
 
-$ python CRACK.py
+$ python Crack.py
 
