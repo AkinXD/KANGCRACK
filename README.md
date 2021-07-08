@@ -1,9 +1,14 @@
 # KANGCRACK
 
 $ pkg install python
+
 $ pkg install git
-$ git clone https://github.com/Latip176/cowCrack
+
+$ git clone https://github.com/AkinXD/KANGCRACK/
+
 $ pip install requests bs4
-$ cd cowCrack
-$ python sapi.py
+
+$ cd KANGCRACK
+
+$ python CRACK.py
 
